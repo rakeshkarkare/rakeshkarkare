@@ -2,7 +2,7 @@
 
 I am a Passionate automation test developer based in Abu Dhabi with almost 9 years of experience working for both product as well as service based industry. My technology stack involves Java, Python, Selenium, Winium, Appium, TestNG, Cucumber, Jenkins, Gitlab CI. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️.
 
- <img align="right" alt="GIF" src="https://github.com/rakeshwritescode/rakeshwritescode/blob/main/coder.gif?raw=true" width="500" height="320" />
+ <img align="right" alt="GIF" src="https://github.com/rakeshkarkare/rakeshkarkare/blob/main/coder.gif?raw=true" width="500" height="320" />
 
 ### 🧐 More About Me:
 
@@ -26,17 +26,17 @@ I am a Passionate automation test developer based in Abu Dhabi with almost 9 yea
 <details>
   <summary>:zap: GitHub Stats</summary>
  
-  ![Rakesh's Github Stats](https://github-readme-stats.vercel.app/api?username=rakeshwritescode&count_private=true&show_icons=true&include_all_commits=true)
+  ![Rakesh's Github Stats](https://github-readme-stats.vercel.app/api?username=rakeshkarkare&count_private=true&show_icons=true&include_all_commits=true)
 
 </details>
 
 <details>
   <summary>:zap: Most Used Languages</summary>
-<img align="left" alt="Rakesh's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakeshwritescode" />
+<img align="left" alt="Rakesh's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakeshkarkare" />
 
 </details>
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=rakeshwritescode.rakeshwritescode)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=rakeshkarkare.rakeshkarkare)
 
 [linkedin]: https://www.linkedin.com/in/rakeshkarkare/
 [portfolio]: https://rakeshkarkare.github.io/
