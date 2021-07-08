@@ -15,26 +15,26 @@ I am a Passionate automation test developer based in Abu Dhabi with almost 9 yea
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I love to spend time listening songs everyday.
 
-### Languages and Tools:
+### 🛠 &nbsp;Tech Stack
 
-![Java](https://img.shields.io/badge/-Java-black?logo=java&style=social)&nbsp;&nbsp;
-![Python](https://img.shields.io/badge/-Python-black?logo=Python&style=social)&nbsp;&nbsp;
-![Git](https://img.shields.io/badge/-Git-black?logo=git&style=social)&nbsp;&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=social)&nbsp;&nbsp;
+
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)&nbsp;
 
 ---
-<details>
-  <summary>:zap: GitHub Stats</summary>
- 
-  ![Rakesh's Github Stats](https://github-readme-stats.vercel.app/api?username=rakeshkarkare&count_private=true&show_icons=true&include_all_commits=true)
+### ⚙️ &nbsp;GitHub Analytics
 
-</details>
-
-<details>
-  <summary>:zap: Most Used Languages</summary>
-<img align="left" alt="Rakesh's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakeshkarkare" />
-
-</details>
+<p align="center">
+<a href="https://github.com/rakeshkarkare">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rakeshkarkare&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rakeshkarkare&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=rakeshkarkare.rakeshkarkare)
 
