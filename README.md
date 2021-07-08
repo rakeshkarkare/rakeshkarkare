@@ -1,5 +1,3 @@
-<img align="right" alt="GIF" src="https://github.com/rakeshkarkare/rakeshkarkare/blob/main/coder.gif?raw=true" width="500" height="320" />
-
 ### Hi there 👋, I am Rakesh! 😁
 
 ![version :08.07.2021](https://img.shields.io/badge/version-08.07.2021-informational) &nbsp;
@@ -8,6 +6,8 @@
 ![build: passing](https://img.shields.io/badge/build-passing-success)
 
 I am a Passionate automation test developer based in Abu Dhabi with almost 9 years of experience working for both product as well as service based industry. My technology stack involves Java, Python, Selenium, Winium, Appium, TestNG, Cucumber, Jenkins, Gitlab CI. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️.
+
+<img align="right" alt="GIF" src="https://github.com/rakeshkarkare/rakeshkarkare/blob/main/coder.gif?raw=true" width="500" height="320" />
 
 ### 🧐 More About Me:
 
@@ -31,7 +31,6 @@ I am a Passionate automation test developer based in Abu Dhabi with almost 9 yea
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)&nbsp;
 
----
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
