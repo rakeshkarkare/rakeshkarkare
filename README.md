@@ -1,3 +1,5 @@
+<img align="right" alt="GIF" src="https://github.com/rakeshkarkare/rakeshkarkare/blob/main/coder.gif?raw=true" width="500" height="320" />
+
 ### Hi there 👋, I am Rakesh! 😁
 
 ![version :08.07.2021](https://img.shields.io/badge/version-08.07.2021-informational) &nbsp;
@@ -6,8 +8,6 @@
 ![build: passing](https://img.shields.io/badge/build-passing-success)
 
 I am a Passionate automation test developer based in Abu Dhabi with almost 9 years of experience working for both product as well as service based industry. My technology stack involves Java, Python, Selenium, Winium, Appium, TestNG, Cucumber, Jenkins, Gitlab CI. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️.
-
- <img align="right" alt="GIF" src="https://github.com/rakeshkarkare/rakeshkarkare/blob/main/coder.gif?raw=true" width="350" height="320" />
 
 ### 🧐 More About Me:
 
@@ -36,7 +36,7 @@ I am a Passionate automation test developer based in Abu Dhabi with almost 9 yea
 
 <p align="center">
 <a href="https://github.com/rakeshkarkare">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rakeshkarkare&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>&nbsp;
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rakeshkarkare&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
  
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rakeshkarkare&layout=compact&langs_count=8&theme=algolia"/>
 </a>
