@@ -38,7 +38,7 @@ I am a Passionate automation test developer based in Abu Dhabi with almost 9 yea
 <a href="https://github.com/rakeshkarkare">
   <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rakeshkarkare&show_icons=true&theme=algolia&count_private=true)"/>
   
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rakeshkarkare&layout=compact&langs_count=8&count_private=true&theme=algolia&exclude_repo=rakeshkarkare.github.io"/>
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rakeshkarkare&layout=compact&langs_count=8&theme=algolia&exclude_repo=rakeshkarkare.github.io"/>
 
   
 </a>
