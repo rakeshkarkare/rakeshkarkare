@@ -1,11 +1,11 @@
 ### Hi there 👋, I am Rakesh! 😁
 
-![version :11.10.2021](https://img.shields.io/badge/version-11.10.2021-informational) &nbsp;
+![version :10.02.2022](https://img.shields.io/badge/version-10.02.2022-informational) &nbsp;
 ![profile count](https://komarev.com/ghpvc/?username=rakeshkarkare&color=red)&nbsp;
 [![GitHub RakeshKarkare](https://img.shields.io/github/followers/rakeshkarkare?label=followers&style=social)](https://github.com/rakeshkarkare)&nbsp;
 ![build: passing](https://img.shields.io/badge/build-passing-success)
 
-I am a Passionate automation test developer based in Abu Dhabi with 9 years of experience working for both product as well as service based industry. My technology stack involves Java, Python, Selenium, Winium, Appium, TestNG, Cucumber, Jenkins, Gitlab CI. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️.
+I am a Passionate automation test developer based in Abu Dhabi with 9+ years of experience working for both product as well as service based industry. My technology stack involves Java, Python, Selenium, Winium, Appium, TestNG, Cucumber, Jenkins, Gitlab CI. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️.
 
 <img align="right" alt="GIF" src="https://github.com/rakeshkarkare/rakeshkarkare/blob/main/coder.gif?raw=true" width="500" height="320" />
 
