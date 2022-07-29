@@ -19,9 +19,9 @@ I am a Passionate automation test developer based in Abu Dhabi with 9+ years of 
 - ⚡ Fun fact: I love to spend time listening songs everyday.
 
 Where I publish my content ✍🏻
+- [Medium](https://medium.com/@rakeshkarkare)
 - [LinkedIn - @rakeshkarkare](https://www.linkedin.com/in/rakeshkarkare/),
 - [Twitter - @karkare_rakesh](https://twitter.com/karkare_rakesh)
-- [Medium](https://medium.com/@rakeshkarkare)
 
 ### 🛠 &nbsp;Tech Stack
 
