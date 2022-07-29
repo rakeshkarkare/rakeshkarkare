@@ -20,7 +20,7 @@ I am a Passionate automation test developer based in Abu Dhabi with 9+ years of 
 
 Where I publish my content ✍🏻
 - [Medium](https://medium.com/@rakeshkarkare)
-- [LinkedIn - @rakeshkarkare](https://www.linkedin.com/in/rakeshkarkare/),
+- [LinkedIn - @rakeshkarkare](https://www.linkedin.com/in/rakeshkarkare/)
 - [Twitter - @karkare_rakesh](https://twitter.com/karkare_rakesh)
 
 ### 🛠 &nbsp;Tech Stack
