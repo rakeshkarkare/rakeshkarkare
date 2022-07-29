@@ -15,15 +15,15 @@ I am a Passionate automation test developer based in Abu Dhabi with 9+ years of 
 - 🔭 I’m currently working on [TAMM](https://www.tamm.abudhabi/) Project
 - 🌱 I’m currently learning new tech stacks on automation 🤓
 - 💬 Ask me about Automation or any tech related stuff
-- Where I publish my content ✍🏻
-[LinkedIn - @rakeshkarkare](https://www.linkedin.com/in/rakeshkarkare/),
-[Twitter - @karkare_rakesh](https://twitter.com/karkare_rakesh)
-[Medium](https://medium.com/@rakeshkarkare)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I love to spend time listening songs everyday.
 
-### 🛠 &nbsp;Tech Stack
+Where I publish my content ✍🏻
+- [LinkedIn - @rakeshkarkare](https://www.linkedin.com/in/rakeshkarkare/),
+- [Twitter - @karkare_rakesh](https://twitter.com/karkare_rakesh)
+- [Medium](https://medium.com/@rakeshkarkare)
 
+### 🛠 &nbsp;Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
